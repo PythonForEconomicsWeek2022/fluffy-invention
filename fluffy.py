@@ -9,7 +9,5 @@ def solow(x):
     for i in range(1:55):
         print(x)
 
-
-
 def trial():
     pass
